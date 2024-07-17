@@ -1,0 +1,1 @@
+document.querySelector('.selectingElements li').style.fontWeight = "bold"; 
